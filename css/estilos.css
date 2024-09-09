@@ -1,0 +1,42 @@
+body
+{
+    background: #c5e9e5;
+    color: #4f575d;
+    text-align: center;
+    font-family: Arial;
+    font-size: 20px;
+   
+}
+main {
+
+    font-family:Arial Black;
+}
+
+
+#cabecera #logo
+{
+    width: 200px;
+    vertical-align: middle;
+}
+#cabecera
+{
+    font-size: 30px;
+    text-align: center;
+    font-family: Arial;
+    
+}
+
+#cordoba:hover {filter: opacity(.5);}
+
+#antioquia:hover {filter: opacity(.5);}
+
+#antioquia:hover {filter: opacity(.5);}
+#atlantico:hover {filter: opacity(.5);}
+#bolivar #logo 
+{
+    width: 100px;
+   
+   
+    }
+
+#bolivar:hover {filter: opacity(.5);}
